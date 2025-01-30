@@ -40,16 +40,16 @@ Material:
     - _Enable_Night_Vision: 0
     - _F: 0.53
     - _Far: 6.02
-    - _LensDistance: 5.85
+    - _LensDistance: 6.55
     - _LensFocusRange: 10
     - _LensPositionX: 0.5
     - _LensPositionY: 0.5
     - _Near: 0
     - _Outside_Noise_Strength: 5000
     - _Power: -11.42
-    - _RingSize: 0.5
+    - _RingSize: 0.525
     - _Ring_Noise_Strength: 15
     m_Colors:
     - _OutsideRingColor: {r: 1, g: 0.79881424, b: 0, a: 0}
-    - _Ring_Color: {r: 0.0039215805, g: 0.81960785, b: 0.022685478, a: 0}
+    - _Ring_Color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
